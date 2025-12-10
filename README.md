@@ -88,7 +88,7 @@ _This project shows real-world full-stack and security skills._
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav69330&layout=compact&theme=aura&hide_border=true" />
+  <img height="170" src="https://raw.githubusercontent.com/Gaurav69330/Gaurav69330/refs/heads/output/github-contribution-grid-snake.svg" />
 </p>
 
 </div>
