@@ -2,11 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
-    # run once a day at 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# allow this workflow to push to the repo
 permissions:
   contents: write
 
