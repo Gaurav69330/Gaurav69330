@@ -117,9 +117,10 @@ _This project shows real-world full-stack and security skills._
 <br/>
 
 <!-- 🐍 CONTRIBUTION SNAKE M
-<p align="center">
-  <img src="https://github.com/Gaurav69330/Gaurav69330/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Gaurav69330/Gaurav69330/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
 
 <!-- 🌈 GRADIENT DIVIDER -->
 <p align="center">
