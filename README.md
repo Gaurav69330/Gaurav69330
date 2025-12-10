@@ -37,6 +37,11 @@
 <!-- 🔥 FULL STACK PROJECT SECTION -->
 <div align="center" style="border-radius:16px;padding:18px 22px;border:1px solid #EC4899;box-shadow:0 0 18px rgba(236,72,153,0.6);max-width:850px;margin:0 auto;">
 
+## 🌟 About Me
+<div align="center" style="border-radius:16px;padding:18px 22px;border:1px solid #6366F1;box-shadow:0 0 18px rgba(99,102,241,0.6);max-width:800px;margin:0 auto;">
+...
+</div>
+
 ### 🔥 Highlight: Full Stack Development Project
 
 **Secure PHP + MySQL Web Application**
