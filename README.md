@@ -31,9 +31,9 @@
 
 <br/>
 
-<!-- 🌈 GRADIENT DIVIDER -->
+<!-- 🌈 GRADIENT DIVIDER (THIS REPLACES THE WRONG IMAGE BLOCK) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22C55E,100:0EA5E9" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:EC4899,100:22C55E" />
 </p>
 
 <!-- 🔥 FULL STACK PROJECT SECTION -->
@@ -50,4 +50,28 @@
 - ✔ CAPTCHA validation  
 - ✔ Session-protected dashboard  
 - ✔ CRUD operations (movies / games)  
-- ✔ AJAX-powered
+- ✔ AJAX-powered interactions  
+- ✔ Twig template engine  
+- ✔ Hosted on **mi-linux**  
+- ✔ Security testing & documentation  
+
+_This project demonstrates real-world full-stack & security skills._
+
+</div>
+
+<br/>
+
+<!-- 🌈 GRADIENT DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22C55E,100:0EA5E9" />
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,java,python,firebase,git,github,vscode,linux" />
+</p>
+
+<br/>
+
+<!-- 📊 GLOWING ST
