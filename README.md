@@ -46,28 +46,6 @@
 <!-- 🔥 FULL STACK PROJECT SECTION -->
 <div align="center" style="border-radius:16px;padding:18px 22px;border:1px solid #EC4899;box-shadow:0 0 18px rgba(236,72,153,0.6);max-width:850px;margin:0 auto;">
 
-### 🔥 Highlight: Full Stack Development Project
-
-**Secure PHP + MySQL Web Application**
-
-- ✔ Login, Register, Logout  
-- ✔ Password hashing (`password_hash`)  
-- ✔ SQL Injection prevention (prepared statements)  
-- ✔ XSS protection (input + output sanitization)  
-- ✔ CAPTCHA validation  
-- ✔ Session-protected dashboard  
-- ✔ CRUD operations (movies / games)  
-- ✔ AJAX interactions  
-- ✔ Twig templating engine for clean UI  
-- ✔ Hosted on **mi-linux server**  
-- ✔ Full security testing report  
-
-_This project demonstrates real-world full-stack & security skills._
-
-</div>
-
-<br/>
-
 <!-- 🌈 GRADIENT DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22C55E,100:0EA5E9" />
