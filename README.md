@@ -11,7 +11,6 @@
        alt="Gaurav Dumre" width="260"
        style="border-radius: 18px; box-shadow: 0 0 15px rgba(99,102,241,0.6);" />
 </p>
-
 <!-- 🎞️ MOVING HERO / TYPING SECTION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Computer+Science+Student;Building+Secure+Web+Apps+with+PHP+%26+MySQL;Robotics+Enthusiast+%7C+CoppeliaSim+%7C+Automation;Always+learning%2C+always+improving+🚀" />
