@@ -31,7 +31,7 @@
 
 <!-- 🌈 GRADIENT DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:EC4899,100:22C55E" />
+  <img src="![WhatsApp Image 2025-12-10 at 23 20 34_860c831f](https://github.com/user-attachments/assets/50145abe-3ea8-4b9d-9266-805d87080aad)" />
 </p>
 
 <!-- 🔥 FULL STACK PROJECT SECTION -->
