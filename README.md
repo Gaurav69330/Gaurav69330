@@ -68,7 +68,10 @@ font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Full+Stack+Dev
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav69330&show_icons=true&theme=aura&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav69330&theme=aura&hide_border=true" />
 </p>
-
+<!-- 🐍 CONTRIBUTION SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gaurav69330/Gaurav69330/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 </div>
 
 <br/>
