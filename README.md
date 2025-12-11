@@ -7,7 +7,7 @@
 
 <!-- 🧬 PROFILE IMAGE WITH GLOW -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gaurav69330/Gaurav69330/main/aboutme.jpg.jpg"
+  <img src="https://raw.githubusercontent.com/Gaurav69330/Gaurav69330/main/aboutme.jpg"
        alt="Gaurav Dumre" width="180"
        style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
 </p>
