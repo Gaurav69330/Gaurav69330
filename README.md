@@ -12,6 +12,11 @@
        alt="Gaurav Dumre" width="180"
        style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
 </p>
+<p align="center">
+  <strong style="font-size: 22px;">
+     Gaurav Dumre
+</p>
+
 <!-- 🎞️ MOVING HERO / TYPING SECTION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
