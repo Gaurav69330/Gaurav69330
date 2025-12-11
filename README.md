@@ -108,13 +108,7 @@ font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Full+Stack+Dev
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,100:EC4899" />
 </p>
 
-## 💭 Dev Quote
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=38BDF8&center=true&width=650&lines=Clean+code+is+crafted%2C+not+guessed.;Security+isn't+an+option%2C+it's+a+requirement.;Keep+building.+Keep+learning.+Keep+shipping." />
-</p>
-
-<br/>
 
 ## 📫 Contact
 
