@@ -1,15 +1,16 @@
 <!-- ✨ INTRO TEXT ABOVE IMAGE -->
 <p align="center">
   <strong style="font-size: 22px;">
-    Hi, I'm Gaurav — always learning, building, and improving my craft.
+    Hi, I'm Gaurav — a passionate developer who turns ideas into powerful, secure applications.
   </strong>
 </p>
 
 <!-- 🧬 PROFILE IMAGE WITH GLOW -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gaurav69330/Gaurav69330/main/aboutme.jpg.jpg" alt="Gaurav Dumre" width="220" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Gaurav69330/Gaurav69330/main/aboutme.jpg.jpg"
+       alt="Gaurav Dumre" width="180"
+       style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
 </p>
-
 <!-- 🎞️ MOVING HERO / TYPING SECTION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Computer+Science+Student;Building+Secure+Web+Apps+with+PHP+%26+MySQL;Robotics+Enthusiast+%7C+CoppeliaSim+%7C+Automation;Always+learning%2C+always+improving+🚀" />
