@@ -1,9 +1,10 @@
-<!-- ✨ INTRO TEXT ABOVE IMAGE -->
+<!-- 💭 Dev Quote -->
+
 <p align="center">
-  <strong style="font-size: 22px;">
-    Hi, I'm Gaurav — a passionate developer who turns ideas into powerful, secure applications.
-  </strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=38BDF8&center=true&width=650&lines=Clean+code+is+crafted%2C+not+guessed.;Security+isn't+an+option%2C+it's+a+requirement.;Keep+building.+Keep+learning.+Keep+shipping." />
 </p>
+
+<br/>
 
 <!-- 🧬 PROFILE IMAGE WITH GLOW -->
 <p align="center">
