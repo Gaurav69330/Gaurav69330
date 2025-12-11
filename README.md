@@ -97,11 +97,6 @@ font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Full+Stack+Dev
 
 <br/>
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gaurav69330/Gaurav69330/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
 <!-- 🌈 GRADIENT DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,100:EC4899" />
